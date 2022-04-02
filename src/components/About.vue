@@ -8,7 +8,7 @@
             </div>
             <div class="w-1/12"></div>
             <div class="flex items-center w-6/12">
-                <img src="../../dev.svg" />
+                <img src="../../public/dev.svg" />
             </div>
         </div>
     </div>

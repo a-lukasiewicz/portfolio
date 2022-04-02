@@ -6,9 +6,9 @@
             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             <div class="absolute text-black right-20 bottom-10">
                 <div class="flex">
-                    <img src="../../github.svg" />
-                    <img src="../../email.svg" />
-                    <img src="../../linkedin.svg" />
+                    <img src="../../public/github.svg" />
+                    <img src="../../public/email.svg" />
+                    <img src="../../public/linkedin.svg" />
                 </div>
             </div>
             <div class="absolute bottom-40">
