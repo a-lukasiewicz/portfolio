@@ -15,6 +15,9 @@
                 <img src="../../public/dev.svg" />
             </div>
         </div>
+        <div class="absolute bottom-[-5rem] left-[-1rem] lg:left-52">
+            <img src="../../public/output.png" height="300" width="300" />
+        </div>
     </div>
 </template>
 <script setup lang="ts">

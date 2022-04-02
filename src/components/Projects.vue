@@ -2,7 +2,7 @@
     <div class="flex flex-col items-center p-6 lg:min-h-screen bg-sky-100">
         <div class="py-8 text-center">
             <h1 class="text-4xl">Moje projekty</h1>
-            <h3 class="text-xl">Oraz technologię, w których je wykonałem</h3>
+            <h3 class="text-xl italic">Oraz technologię, w których je wykonałem</h3>
         </div>
         <div class="flex flex-col lg:grid lg:grid-cols-4 lg:gap-8">
             <Card />
