@@ -1,5 +1,4 @@
 <template lang="">
-    <!-- component -->
 <div class="w-full">
     <div class="bg-gradient-to-b from-blue-800 to-blue-600 h-96"></div>
     <div class="max-w-5xl px-6 mx-auto mb-12 sm:px-6 lg:px-8">
@@ -40,10 +39,4 @@
 </div>
 </template>
 <script>
-export default {
-    
-}
 </script>
-<style lang="">
-    
-</style>

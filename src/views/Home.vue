@@ -16,4 +16,3 @@ import About from "../components/About.vue";
 import Contact from "../components/Contact.vue";
 import Footer from "../components/Footer.vue";
 </script>
-<style lang=""></style>
