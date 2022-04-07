@@ -2,13 +2,12 @@
   <div class="h-[48vh] lg:h-[92vh] bg-mainLighter text-white relative">
     <div class="flex items-start justify-around h-full">
       <div class="flex flex-col items-center justify-center h-full">
-        <h1 class="text-4xl">Adam Łukasiewicz</h1>
-        <p class="p-3 text-xl italic text-center">
-          Web Developer <br />
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit, ullam.
+        <h1 class="p-3 text-2xl text-center lg:text-left lg:text-6xl">Adam Łukasiewicz</h1>
+        <p class="p-3 text-sm italic text-center lg:text-xl">
+          Web Developer
         </p>
       </div>
-      <div class="py-8">
+      <div class="my-auto lg:my-0 lg:py-8">
         <img src="../../public/hero.svg" alt="">
       </div>
       <div class="absolute text-black bottom-1 right-5 lg:right-20 lg:bottom-10">

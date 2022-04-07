@@ -14,6 +14,12 @@
       </tr>
       <tr class="hover">
         <td class="flex items-center">
+          <img src="../../public/technology/firebase.svg" class="w-8 h-8" />
+          <p class="px-3">FIREBASE</p>
+        </td>
+      </tr>
+      <tr class="hover">
+        <td class="flex items-center">
           <img src="../../public/technology/js.svg" class="w-8 h-8" />
           <p class="px-3">JAVASCRIPT ES6</p>
         </td>
