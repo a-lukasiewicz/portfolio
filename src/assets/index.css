@@ -1,9 +1,12 @@
 @tailwind base;
+html {
+  scroll-behavior: smooth;
+}
 @tailwind components;
 @tailwind utilities;
 
 @layer components {
     .nav-link {
-      @apply px-2 py-1 text-sm rounded md:text-xl md:px-3 md:mx-4 hover:cursor-pointer;
+      @apply px-2 py-1 text-xs rounded sm:px-2 sm:text-sm md:text-xl md:px-3 md:mx-4 hover:cursor-pointer;
     }
   }

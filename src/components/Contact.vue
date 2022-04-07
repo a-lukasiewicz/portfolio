@@ -1,5 +1,5 @@
 <template lang="">
-  <div class="w-full">
+  <div id="contact" class="w-full">
     <div class="bg-mainLighter h-96"></div>
     <div class="max-w-5xl px-6 mx-auto mb-12 sm:px-6 lg:px-8">
       <div class="w-full p-8 bg-white rounded shadow sm:p-12 -mt-72">

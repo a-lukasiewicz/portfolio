@@ -1,5 +1,5 @@
 <template lang="">
-  <div class="flex flex-col items-center min-h-screen p-6 bg-sky-100">
+  <div id="specialization" class="flex flex-col items-center min-h-screen p-6 bg-sky-100">
     <div class="p-6 lg:p-12">
       <h1 class="text-4xl text-center">Zobacz moje specjalizację</h1>
       <h3 class="text-xl text-center">Oraz technologię, których używam</h3>

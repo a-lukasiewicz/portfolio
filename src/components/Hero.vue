@@ -12,9 +12,9 @@
       </div>
       <div class="absolute text-black bottom-1 right-5 lg:right-20 lg:bottom-10">
         <div class="flex">
-          <img class="px-2" src="../../public/github.svg" />
-          <img class="px-2" src="../../public/linkedin.svg" />
-          <img class="px-2" src="../../public/email.svg" />
+          <a href="https://github.com/a-lukasiewicz"><img class="w-16 px-2" src="../../public/github.svg" /></a>
+          <a href="https://www.linkedin.com/in/adam-%C5%82ukasiewicz-b2a8b3214/"><img class="w-16 px-2" src="../../public/linkedin.svg" /></a>
+          <a href="#contact" alt="adamlukasiewicz3@gmail.com"><img class="w-16 px-2" src="../../public/gmail.svg" /></a>
         </div>
       </div>
       <div class="absolute bottom-10 lg:bottom-20">

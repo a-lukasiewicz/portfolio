@@ -1,5 +1,5 @@
 <template lang="">
-  <div class="flex flex-col items-center p-6 lg:min-h-screen bg-sky-100">
+  <div id="projects" class="flex flex-col items-center p-6 lg:min-h-screen bg-sky-100">
     <div class="py-8 text-center">
       <h1 class="text-4xl">Moje projekty</h1>
       <h3 class="text-xl italic">Oraz te technologię w jakich je wykonałem</h3>
