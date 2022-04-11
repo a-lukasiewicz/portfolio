@@ -6,9 +6,9 @@
     </div>
     <div class="flex flex-col items-center justify-center w-full h-full lg:justify-evenly lg:flex-row">
       <div class="flex flex-col justify-center w-full lg:justify-end h-1/2 lg:h-full lg:w-1/2">
-        <CardSpec title="Strony internetowe" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, quasi." />
-        <CardSpec title="SEO i Optymalizacja" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, quasi." />
-        <CardSpec title="Social Media Marketing" />
+        <CardSpec title="Strony internetowe" description="Tworzę nowoczesne i responsywne strony internetowe." />
+        <CardSpec title="SEO i Optymalizacja" description="Optymalizuję strony internetowe pod wyszukiwarki internetowe." />
+        <CardSpec title="Social Media Marketing" description="Aktualnie rozwijam się w tym, traktuję to jako ciekawe zainteresowanie." />
       </div>
       <div class="h-1/2 lg:h-full lg:w-1/3">
         <Table />
