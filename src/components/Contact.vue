@@ -39,15 +39,15 @@ const serviceID = import.meta.env.VITE_SERVICE_ID as string;
 const templateID = import.meta.env.VITE_TEMPLATE_ID as string;
 const userID = import.meta.env.VITE_PUBLIC_KEY_EMAIL as string;
 
-const sendEmail = () => {
-  const form = document.querySelector("#form");
-  emailjs.sendForm(serviceID, templateID, form, "user_" + userID).then(
-    (result) => {
-      console.log("SUCCESS!", result.text);
-    },
-    (error) => {
-      console.log("FAILED...", error.text);
-    }
-  );
-};
+// const sendEmail = () => {
+//   const form = document.querySelector("#form");
+//   emailjs.sendForm(serviceID, templateID, form, "user_" + userID).then(
+//     (result) => {
+//       console.log("SUCCESS!", result.text);
+//     },
+//     (error) => {
+//       console.log("FAILED...", error.text);
+//     }
+//   );
+// };
 </script>
