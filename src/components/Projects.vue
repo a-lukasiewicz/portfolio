@@ -5,14 +5,14 @@
       <h3 class="text-xl italic">Oraz te technologię w jakich je wykonałem</h3>
     </div>
     <div class="flex flex-col lg:grid lg:grid-cols-4 lg:gap-8">
-      <Card title="Dom Gościnny AS" imageURL="../../public/projects/guesthouse.svg" description="Strona domu gościnnego w Pobierowie." :technologyUsed="guestHouseTech" siteLink="https://guesthouse-a-lukasiewicz.vercel.app/" status />
+      <Card title="Dom Gościnny AS" imageURL="../../projects/guesthouse.svg" description="Strona domu gościnnego w Pobierowie." :technologyUsed="guestHouseTech" siteLink="https://guesthouse-a-lukasiewicz.vercel.app/" status />
 
-      <Card title="Quization" imageURL="../../public/projects/quization.svg" description="Aplikacja internetowa do badania kompetencji cyfrowych." :technologyUsed="quizationTech" siteLink="https://quization.vercel.app/" />
-      <Card title="Club App" imageURL="../../public/projects/clubApp.svg" description="Platforma do zarządzaniem klubami/stowarzyszeniami." :technologyUsed="clubappTech" siteLink="https://wtb2-club-app.vercel.app/" />
+      <Card title="Quization" imageURL="../../projects/quization.svg" description="Aplikacja internetowa do badania kompetencji cyfrowych." :technologyUsed="quizationTech" siteLink="https://quization.vercel.app/" />
+      <Card title="Club App" imageURL="../../projects/clubApp.svg" description="Platforma do zarządzaniem klubami/stowarzyszeniami." :technologyUsed="clubappTech" siteLink="https://wtb2-club-app.vercel.app/" />
       <!-- <Card title="Baza hoteli TRIVAV" imageURL="../../public/projects/trivav.svg" description="Wyszukiwarka hoteli w Polsce." :technologyUsed="clubappTech" siteLink="https://pznu.vercel.app/" /> -->
       <Card title="Globalley" description="Strona z newsami, jak Morning Brew." :technologyUsed="guestHouseTech" siteLink="https://vue-globalley.vercel.app/" />
-      <Card title="Faktury" imageURL="../../public/projects/invoice.png" description="Generowanie oraz przechowywanie faktur dla firmy" :technologyUsed="clubappTech" siteLink="https://vuex-project-invoices.vercel.app/" />
-      <Card title="Monmodi" imageURL="../../public/projects/monmodi.png" description="Internetowy sklep odzieżowy." :technologyUsed="monmodiTech" siteLink="https://monmodi.pl/" />
+      <Card title="Faktury" imageURL="../../projects/invoice.png" description="Generowanie oraz przechowywanie faktur dla firmy" :technologyUsed="clubappTech" siteLink="https://vuex-project-invoices.vercel.app/" />
+      <Card title="Monmodi" imageURL="../../projects/monmodi.png" description="Internetowy sklep odzieżowy." :technologyUsed="monmodiTech" siteLink="https://monmodi.pl/" />
     </div>
     <!-- <div class="mt-8">
       <button class="btn">Zobacz więcej</button>
