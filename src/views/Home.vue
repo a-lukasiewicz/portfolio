@@ -15,4 +15,9 @@ import Projects from "../components/Projects.vue";
 import About from "../components/About.vue";
 // import Contact from "../components/Contact.vue";
 import Footer from "../components/Footer.vue";
+// import { defineAsyncComponent } from "vue";
+// const Specialization = defineAsyncComponent({
+//   loader: () => import("../components/Specialization.vue"),
+//   delay: 1000 /* delay in ms before showing loading component */,
+// });
 </script>

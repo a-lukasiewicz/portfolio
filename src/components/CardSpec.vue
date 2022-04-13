@@ -1,5 +1,5 @@
 <template lang="">
-  <div class="w-full my-3 shadow-xl lg:m-3 lg:w-3/4 card bg-base-100">
+  <div @mouseover="hover = true" @mouseout="hover = false" :class="{ animate__pulse: hover }" class="w-full my-3 shadow-xl animate__animated lg:m-3 lg:w-3/4 card bg-base-100">
     <div class="text-center card-body lg:text-left">
       <h2 class="justify-center card-title lg:justify-start">{{ title }}</h2>
       <p>{{ description }}</p>
@@ -10,6 +10,9 @@
   </div>
 </template>
 <script setup lang="ts">
+import { ref } from "vue";
+
+const hover = ref(false);
 const props = defineProps({
   title: { type: String },
   description: { type: String },

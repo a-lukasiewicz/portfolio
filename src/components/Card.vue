@@ -1,5 +1,5 @@
 <template lang="">
-  <a :href="siteLink" class="relative w-[80vw] md:w-[40vw] my-3 lg:my-0 lg:w-[17vw] lg:h-[35vh] shadow-xl card bg-base-100">
+  <a :href="siteLink" @mouseover="hover = true" @mouseout="hover = false" :class="{ animate__pulse: hover }" class="animate__animated relative w-[80vw] md:w-[40vw] my-3 lg:my-0 lg:w-[17vw] lg:h-[35vh] shadow-xl card bg-base-100">
     <figure class="w-full h-32 md:h-44 lg:h-64">
       <img v-if="imageURL" :src="imageURL" alt="Logo" />
       <h1 v-else-if="logoText">{{ logoText }}</h1>
@@ -23,6 +23,8 @@
 </template>
 <script setup lang="ts">
 import { ref, reactive } from "vue";
+
+const hover = ref(false);
 
 const props = defineProps({
   title: { type: String },
