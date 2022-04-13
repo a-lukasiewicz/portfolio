@@ -10,9 +10,9 @@
       </div>
       <div class="absolute text-black bottom-1 right-5 lg:right-20 lg:bottom-10">
         <div class="flex">
-          <Social href="https://github.com/a-lukasiewicz" src="../../public/github.svg" alt="Github"></Social>
-          <Social href="https://www.linkedin.com/in/adam-%C5%82ukasiewicz-b2a8b3214/" src="../../public/linkedin.svg" alt="LinkedIn"></Social>
-          <Social href="#about" src="../../public/gmail.svg" alt="Gmail"></Social>
+          <Social href="https://github.com/a-lukasiewicz" src="../../github.svg" alt="Github"></Social>
+          <Social href="https://www.linkedin.com/in/adam-%C5%82ukasiewicz-b2a8b3214/" src="../../linkedin.svg" alt="LinkedIn"></Social>
+          <Social href="#about" src="../../gmail.svg" alt="Gmail"></Social>
         </div>
       </div>
     </div>
