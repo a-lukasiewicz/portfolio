@@ -1,6 +1,6 @@
 <template lang="">
   <table class="table w-full mt-6 lg:mt-0">
-    <thead>
+    <thead class="z-10">
       <tr>
         <th>Narzędia i języki programowania</th>
       </tr>
@@ -58,15 +58,15 @@
       <tr class="hover">
         <td class="flex items-center">
           <img src="../../public/technology/typescript.svg" class="w-8 h-8" />
-          <p class="px-3">TYPESCRIPT</p>
-          <span class="p-3 text-white badge badge-ghost badge-sm bg-mainLighter">Aktualnie się uczę</span>
+          <p class="pl-3 pr-2 lg:px-3">TYPESCRIPT</p>
+          <span class="p-2 text-white lg:p-3 badge badge-ghost badge-sm bg-mainLighter">Aktualnie się uczę</span>
         </td>
       </tr>
       <tr class="hover">
         <td class="flex items-center">
           <img src="../../public/technology/react.svg" class="w-8 h-8" />
           <p class="px-3">REACT</p>
-          <span class="p-3 text-white badge badge-ghost badge-sm bg-mainLighter">Aktualnie się uczę</span>
+          <span class="p-2 text-white lg:p-3 badge badge-ghost badge-sm bg-mainLighter">Aktualnie się uczę</span>
         </td>
       </tr>
     </tbody>

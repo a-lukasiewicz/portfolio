@@ -1,10 +1,10 @@
 <template lang="">
-  <div id="projects" class="flex flex-col items-center p-6 lg:min-h-screen bg-sky-100">
-    <div class="py-8 text-center">
+  <div id="projects" class="flex flex-col items-center py-6 lg:min-h-[80vh] bg-sky-100">
+    <div class="p-6 text-center pt-14 md:pt-16 lg:pt-20 lg:px-12">
       <h1 class="text-4xl">Moje projekty</h1>
       <h3 class="text-xl italic">Oraz te technologię w jakich je wykonałem</h3>
     </div>
-    <div class="flex flex-col lg:grid lg:grid-cols-4 lg:gap-8">
+    <div class="flex flex-col lg:gap-8 lg:grid lg:grid-cols-4">
       <Card title="Dom Gościnny AS" imageURL="../../projects/guesthouse.svg" description="Strona domu gościnnego w Pobierowie." :technologyUsed="guestHouseTech" siteLink="https://guesthouse-a-lukasiewicz.vercel.app/" status />
 
       <Card title="Quization" imageURL="../../projects/quization.svg" description="Aplikacja internetowa do badania kompetencji cyfrowych." :technologyUsed="quizationTech" siteLink="https://quization.vercel.app/" />

@@ -1,11 +1,11 @@
 <template lang="">
   <div id="about" class="relative">
-    <div class="flex flex-col items-center min-h-[120vh] md:min-h-[60vh] bg-sky-100">
-      <div class="mt-6 text-center lg:mt-16">
+    <div class="flex flex-col items-center pb-6 lg:pb-0 bg-sky-100">
+      <div class="text-center pt-14 lg:pt-16">
         <h1 class="text-4xl">O mnie</h1>
         <h3 class="text-xl italic">Krótko o tym czym się zajmuję</h3>
       </div>
-      <div class="flex flex-col items-center w-full h-full mt-8 lg:mt-0 sm:mb-0 lg:justify-between sm:flex-row">
+      <div class="flex flex-col items-center w-5/6 h-full mt-8 lg:mt-0 sm:mb-0 lg:justify-between sm:flex-row">
         <div class="flex items-center w-9/12 ml-12 lg:ml-32 md:w-5/12">
           <img src="../../public/undraw_dev.svg" />
         </div>

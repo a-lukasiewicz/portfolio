@@ -12,7 +12,7 @@
         <div class="flex">
           <a href="https://github.com/a-lukasiewicz"><img class="w-12 px-2 lg:w-16" src="../../public/github.svg" /></a>
           <a href="https://www.linkedin.com/in/adam-%C5%82ukasiewicz-b2a8b3214/"><img class="w-12 px-2 lg:w-16" src="../../public/linkedin.svg" /></a>
-          <a href="#contact" alt="adamlukasiewicz3@gmail.com"><img class="w-12 px-2 lg:w-16" src="../../public/gmail.svg" /></a>
+          <a href="#about" alt="adamlukasiewicz3@gmail.com"><img class="w-12 px-2 lg:w-16" src="../../public/gmail.svg" /></a>
         </div>
       </div>
     </div>
